@@ -121,7 +121,8 @@ Sleuth Kit Disk Analysis Commands
   
   ●	Command:  fsstat -f filetype “file path”
   ![image](https://github.com/user-attachments/assets/a6065f77-74fa-4507-bd57-85459da5f388)
-  ![image](https://github.com/user-attachments/assets/e93f8c16-c8fd-4e34-8bb2-617a76d9261f)
+  ![3](https://github.com/user-attachments/assets/a49965d9-f3c2-4773-b4a8-cdfacb2db3a6)
+
   
   #### OUTPUT SUMMARY:
   PRIMARY VOLUME DESCRIPTOR 1 File System Information:
@@ -159,7 +160,8 @@ Sleuth Kit Disk Analysis Commands
   ●	Use fls to view directory structure.
   
   ●	Command:  fls -f filetype -r  “file path”
-  ![image](https://github.com/user-attachments/assets/4eec2350-f448-4655-ba1f-da3ef3cb0e68)
+ ![2](https://github.com/user-attachments/assets/b0e16fdb-8ac8-4a0a-ad08-661a9bce699b)
+
 
 
   #### OUTPUT SUMMARY:
@@ -185,7 +187,8 @@ Sleuth Kit Disk Analysis Commands
   ●	Use img_stat – Sleuth Kit utility for viewing image file metadata.
   
   ●	Command:  img_stat  “file path”
-  ![image](https://github.com/user-attachments/assets/2877e39b-a09e-4361-a7fc-b6c03fce6346)
+ ![1](https://github.com/user-attachments/assets/b8272dc8-b266-4bfc-9f78-2ebc535e38d6)
+
 
   #### OUTPUT SUMMARY:
   •	Image Type: raw
